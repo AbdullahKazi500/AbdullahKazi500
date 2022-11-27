@@ -4,7 +4,7 @@ Thermodynamics, computational fluids.cyrogenics , statistical mechanics, high en
 And a little bit condensed matter physics and a bit of metallurgy
 - 🌱 I’m currently learning quantum computing, quantum mechanics and quantum machine learning 
 - 💞️ I’m looking to collaborate on optics,photonic , particle physics and high energy physics 
-- 📫 How to reach me through LinkedIn 
+- 📫 Qbraid Hackathon Winner Team feynman prodgies
 
 <!---
 AbdullahKazi500/AbdullahKazi500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
