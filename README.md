@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah Kazi
 - 👀 My research interests are Thermal physics
-Thermodynamics, computational fluids.cyrogenics , statistical mechanics, high energy physics,optics ,atomic physics ,nuclear physics 
+Thermodynamics, computational fluids,cyrogenics , statistical mechanics, high energy physics,optics ,atomic physics ,nuclear physics 
 condensed matter physics and a bit of metallurgy
 
 
