@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdullah Kazi
+
 - <h1 align="center">Hi 👋, I am Abdullah Kazi  </h1>
 <h3 align="center"> </h3>
 
