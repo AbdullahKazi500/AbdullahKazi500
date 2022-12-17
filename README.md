@@ -8,7 +8,7 @@
 
 - 
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hanzi-li-mcgill/overlay/1635492831439/single-media-viewer/](https://www.linkedin.com/in/hanzi-li-mcgill/overlay/1635492831439/single-media-viewer/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
