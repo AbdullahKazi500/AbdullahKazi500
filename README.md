@@ -15,11 +15,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanzili&show_icons=true&locale=en&layout=compact" alt="hanzili" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahKazi500&show_icons=true&locale=en&layout=compact" alt="AbdullahKazi500" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzili&show_icons=true&theme=tokyonight&locale=en" alt="hanzili" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahKazi500&show_icons=true&theme=tokyonight&locale=en" alt="AbdullahKazi500" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzili&" alt="hanzili" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahKazi500&" alt="AbdullahKazi500" /></p>
 
 <br/>  
 
