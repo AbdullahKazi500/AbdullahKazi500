@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzili&label=Profile%20views&color=0e75b6&style=flat" alt="hanzili" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanzili" alt="hanzili" /></a> </p>
 
-- 📫 How to reach me **hanzili0217@gmail.com**
+
+- 
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hanzi-li-mcgill/overlay/1635492831439/single-media-viewer/](https://www.linkedin.com/in/hanzi-li-mcgill/overlay/1635492831439/single-media-viewer/)
 
